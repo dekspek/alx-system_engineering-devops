@@ -1,1 +1,1 @@
-this is a project for shell, I/O Redirecions and filters
+This is a project for shell, I/O Redirections and filtes
